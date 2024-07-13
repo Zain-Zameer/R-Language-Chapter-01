@@ -358,5 +358,13 @@ Following are the basics commands and operations in R language:
     -   **How to import them**:
 
         -   library('package-name')
+     
+
+-   Checking R Version:
+      Sometimes, You need to check your version of R to stay update on packages,you can check R version by following command.
+
+      ``` r
+      R.Version.String
+      ```
 
 ## R is a statistical Programming Language.
